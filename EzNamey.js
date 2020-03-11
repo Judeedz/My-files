@@ -20,3 +20,5 @@ let secondWords = ['Fun Coding', 'Sleepless Nights', 'Stormed Brain', 'Insanity'
 
 let startUpName = firstWords[randomNumber] + " " + secondWords[randomNumber];
 console.log("The startup: " + startUpName + " contains " + startUpName.length + " characters");
+
+console.log("Files uploaded successfully!");
